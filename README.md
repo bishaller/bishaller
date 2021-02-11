@@ -8,6 +8,6 @@
 - 📄  Find my work History in **[Linkedin](https://www.linkedin.com/in/bishaller)**
 - 🤝  Let's be friends on *[Instagram](https://www.instagram.com/bishaller/)*
 - 📫  How to reach me? **hello@bishal.cc**
-- 🖥  And, here is my [personal website](http://bishal.cc/)
+- 🖥  And, here is my ***[personal website](http://bishal.cc/)***
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishaller&label=Profile%20views&color=0e75b6&style=flat" alt="bishaller" /> </p>
