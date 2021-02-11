@@ -3,22 +3,16 @@
 <!--
 **bishaller/bishaller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <h1>I'm Bishal Mishra, a UX & Product Designer.</h1>
-<h2>I can Think, Solve, Invent, Design, Code, Manage and Lead.</h2>
+<h4>I can Think, Solve, Invent, Design, Code, Manage and Lead.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishaller&label=Profile%20views&color=0e75b6&style=flat" alt="bishaller" /> </p>
 
 - 🌱 I’m currently learning **Javascripts, Deep diving into UX.**
-
 - 👨‍💻 I share some of my work at [https://dribbble.com/bishaller](https://dribbble.com/bishaller)
-
 - 📝 I ocassionally write articles on [https://medium.com/@bishaller](https://medium.com/@bishaller)
-
 - 💬 Ask me about **User Experience, User Interface, Product Design, FrontEnd, Anything Else.**
-
 - 📫 How to reach me? **hello@bishal.cc**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/bishaller](https://www.linkedin.com/in/bishaller)
-
 - 🤝 Be friends on [Instagram](https://www.instagram.com/bishaller/)
 
 <h3 align="left">Connect with me:</h3>
