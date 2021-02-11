@@ -1,5 +1,4 @@
 ### **Hey 👋, I wish you have a lovely day.**
-<!-- **bishaller/bishaller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <h1>UX, UI & a Product Designer.</h1>
 <p>I can Think, Solve, Invent, Design, Code, Manage and Lead. </p>
 
