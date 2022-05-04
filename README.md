@@ -1,6 +1,7 @@
-### **Namaskaar Hajur!!! 🙏.   Hey 👋**
+### **नमस्कार हजुर  🙏**
+**Hey 👋**
+
 <h1>UX & Product Designer.</h1>
-<p>I can Think, Solve, Invent, Design, Code, Manage and Lead. </p>
 
 🏀  Design shots at **[Dribble](https://dribbble.com/bishaller)**<br>
 🟦  Pro chat on **[Linkedin](https://www.linkedin.com/in/bishaller)**<br>
